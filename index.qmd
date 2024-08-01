@@ -1,0 +1,21 @@
+---
+title: "Mark Onoja Adikwu"
+image: prof.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/markonoja
+    - icon: github
+      text: Github
+      href: https://github.com/markonoja
+
+---
+
+Mark Onoja, PMD Pro is a
+Transformational Leader, Monitoring, Evaluation, Accountability, and Learning Specialist, Data Analyst and Researcher
+
+As a dedicated professional with over 14 years of experience in development and public health, I have established myself as a seasoned professional in data management, monitoring, evaluation, and program implementation. My expertise spans training and capacity building, project management, interpersonal communication, and database management.
+
+I have a strong passion for influencing positive behavior change and maintenance using evidence-based approaches. My leadership skills have been demonstrated through my ability to build and sustain strategic relationships with key stakeholders, ensuring effective coordination and information flow.

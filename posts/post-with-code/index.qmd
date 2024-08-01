@@ -1,0 +1,11 @@
+---
+title: "Analysis of DHS Data"
+author: "Mark Onoja"
+date: "2024-07-31"
+categories: [code, analysis,r]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project 
+[here](https://demolandscapes.info/){target="_blank"}
+

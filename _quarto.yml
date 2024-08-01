@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Mark Onoja Adikwu"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/markonoja
+      - icon: twitter
+        href: https://twitter.com/markonoja
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
